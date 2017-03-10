@@ -26,7 +26,7 @@ it fires off your command.
 """.strip()
 
 short_description = """
-A library for automatically generating commane line interfaces.""".strip()
+A library for automatically generating command line interfaces.""".strip()
 
 dependencies = [
     'ipython',
